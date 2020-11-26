@@ -43,6 +43,7 @@ Contributors
 
 * Odoo SA
 * Yannick Vaucher <yannick.vaucher@camptocamp.com>
+* Samuel Cardoso <s.cardoso@eclypsys.ch>
 
 Maintainer
 ----------
